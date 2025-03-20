@@ -1,0 +1,63 @@
+Diagnosis,Gender,AgeGroup,SpecialPopulation,TreatmentLine,Class,Medication,StartDose,Titration,Contraindications,Notes
+Major Depressive Disorder,Any,Adult,Any,First-Line,SSRI,Sertraline,25-50 mg/day,Increase by 25–50 mg weekly to max 200 mg,History of mania,Monitor for activation
+Major Depressive Disorder,Any,Adult,Any,First-Line,SSRI,Escitalopram,5–10 mg/day,Increase to max 20 mg,QT prolongation risk,Well-tolerated in elderly
+Major Depressive Disorder,Any,Adult,Cardiac Impairment,Second-Line,SNRI,Venlafaxine,37.5 mg/day,Increase to 150–225 mg/day,Uncontrolled hypertension,Monitor BP
+Major Depressive Disorder,Any,Adult,Hepatic Impairment,Second-Line,Atypical Antidepressant,Bupropion XL,150 mg/day,Increase to 300 mg/day,Seizure risk,Good for anhedonia/fatigue
+Major Depressive Disorder,Any,Adult,Cardiac Impairment,Third-Line,TCA,Nortriptyline,10–25 mg/day,Slow titration,Cardiac arrhythmia risk,EKG monitoring needed
+Major Depressive Disorder,Any,Adult,Any,Adjunct,Atypical Antipsychotic,Aripiprazole,2 mg/day,Increase to 10–15 mg,Akathisia,Low metabolic burden
+Generalized Anxiety Disorder,Any,Adult,Any,First-Line,SSRI,Escitalopram,5–10 mg/day,Increase to 20 mg/day,Hyponatremia,Effective for chronic anxiety
+Generalized Anxiety Disorder,Any,Elderly,Any,First-Line,SSRI,Sertraline,25 mg/day,Increase to 50–100 mg,Hyponatremia,Start low, go slow
+Generalized Anxiety Disorder,Any,Adult,Any,Second-Line,Anxiolytic,Buspirone,7.5 mg BID,Increase to 30–60 mg/day,Dizziness,Low abuse potential
+Generalized Anxiety Disorder,Any,Adult,Any,Third-Line,Antihistamine,Hydroxyzine,25 mg PRN,PRN dosing only,Sedation,Temporary relief
+Panic Disorder,Any,Adult,Any,First-Line,SSRI,Paroxetine,10 mg/day,Increase to 20–40 mg,Sedation,Effective but sedating
+Panic Disorder,Any,Adult,Any,Second-Line,Benzodiazepine,Clonazepam,0.25 mg BID,Use PRN or bridge,Dependence risk,Short-term use only
+PTSD,Any,Adult,Any,First-Line,SSRI,Sertraline,25–50 mg/day,Increase to 200 mg,Sedation,Standard PTSD option
+PTSD,Any,Adult,Any,Adjunct,Alpha-blocker,Prazosin,1 mg qHS,Increase to 5–15 mg,Syncope risk,Use for trauma nightmares
+PTSD,Any,Adult,Any,Second-Line,Atypical Antipsychotic,Quetiapine,25–50 mg qHS,Increase to 300 mg,Sedation/metabolic risk,Helpful for reexperiencing symptoms
+Bipolar Disorder,Any,Adult,Renal Impairment,First-Line,Mood Stabilizer,Lithium,300 mg BID,Titrate to 0.6–1.0 mEq/L,Renal/thyroid dysfunction,Gold standard mood stabilizer
+Bipolar Disorder,Any,Adult,Hepatic Impairment,First-Line,Anticonvulsant,Lamotrigine,25 mg/day,Titrate slowly to 100–200 mg,Rash (SJS),Preferred in bipolar depression
+Bipolar Disorder,Any,Adult,Obesity,Second-Line,Antipsychotic,Quetiapine,50 mg/day,Increase to 300–600 mg/day,Weight gain,Monitor metabolic parameters
+ADHD,Any,Adolescent,Any,First-Line,Stimulant,Methylphenidate XR,18 mg/day,Increase to 72 mg/day,Substance misuse,Monitor BP/HR
+ADHD,Any,Adult,Hepatic Impairment,Second-Line,Non-Stimulant,Atomoxetine,40 mg/day,Increase to 80–100 mg,Hepatic toxicity,Monitor LFTs
+ADHD,Any,Adult,Obesity,Third-Line,NDRI,Bupropion XL,150 mg/day,Increase to 300 mg,Seizure threshold risk,Alternative for inattentiveness
+Psychotic Disorder,Any,Adult,Any,First-Line,Antipsychotic,Risperidone,1 mg/day,Increase to 4–6 mg,EPS/Prolactin elevation,Monitor side effects
+Psychotic Disorder,Any,Adult,Any,First-Line,Antipsychotic,Olanzapine,5 mg/day,Increase to 15–20 mg,Weight/metabolic risk,High efficacy
+Psychotic Disorder,Any,Adult,Any,Second-Line,Antipsychotic,Aripiprazole,5 mg/day,Increase to 15–30 mg,Akathisia,Activating profile
+Psychotic Disorder,Any,Adult,Any,Third-Line,Antipsychotic,Clozapine,12.5 mg BID,Titrate slowly; monitor ANC,Agranulocytosis,Use in treatment resistance
+Adjustment Disorder,Any,Adult,Any,First-Line,Psychotherapy,None,N/A,N/A,None,Psychosocial intervention first
+Adjustment Disorder,Any,Adult,Any,Second-Line,SSRI,Sertraline,25 mg/day,Increase to 100 mg,Sedation,Short-term SSRI use
+Adjustment Disorder,Any,Adult,Any,Adjunct,Anxiolytic,Hydroxyzine,25 mg PRN,N/A,Drowsiness,For situational anxiety relief
+Insomnia,Any,Adult,Any,First-Line,Non-Pharmacologic,Sleep Hygiene,N/A,N/A,None,Behavioral intervention preferred
+Insomnia,Any,Adult,Any,Second-Line,Sedative,Trazodone,25–50 mg qHS,Increase to 150 mg,Hangover effect,Low abuse potential
+Insomnia,Any,Elderly,Any,Third-Line,Non-Benzodiazepine,Zolpidem,5 mg qHS,Use lowest dose,Confusion/falls in elderly,Limit short-term
+Diagnosis,Gender,AgeGroup,SpecialPopulation,TreatmentLine,Class,Medication,StartDose,Titration,Contraindications,Notes
+Obsessive-Compulsive Disorder,Any,Adult,Any,First-Line,SSRI,Fluoxetine,20 mg/day,Increase to 60–80 mg,Anxiety activation,Requires higher doses
+Obsessive-Compulsive Disorder,Any,Adult,Any,First-Line,SSRI,Fluvoxamine,50 mg/day,Increase to 150–300 mg,Drug interactions,CYP1A2 inhibitor
+Obsessive-Compulsive Disorder,Any,Adult,Any,Second-Line,SSRI augmentation,Aripiprazole,2 mg/day,Increase to 10 mg,Akathisia,Augment for partial response
+Obsessive-Compulsive Disorder,Any,Adult,Any,Adjunct,Psychotherapy,ERP Therapy,N/A,N/A,N/A,Exposure and Response Prevention (ERP) is essential
+Social Anxiety Disorder,Any,Adult,Any,First-Line,SSRI,Paroxetine,10 mg/day,Increase to 20–40 mg,Sedation/weight gain,Effective but sedating
+Social Anxiety Disorder,Any,Adult,Any,Second-Line,SNRI,Venlafaxine XR,37.5 mg/day,Increase to 75–225 mg,Hypertension risk,Dual anxiety/depression benefit
+Social Anxiety Disorder,Any,Adult,Any,Third-Line,Beta Blocker,Propranolol,10–20 mg PRN,PRN dosing for performance,Asthma,For performance-only anxiety
+Substance Use Disorder,Any,Adult,Hepatic Impairment,First-Line,Craving Reduction,Naltrexone,50 mg/day,N/A,Hepatic impairment,Monitor LFTs
+Substance Use Disorder,Any,Adult,Any,First-Line,Craving Reduction,Acamprosate,666 mg TID,N/A,Renal impairment,Use for alcohol craving
+Substance Use Disorder,Any,Adult,Any,Second-Line,Antidepressant,Bupropion SR,150 mg/day,Increase to 300 mg,Seizure risk,Helpful in nicotine/alcohol use
+Substance Use Disorder,Any,Adult,Any,Adjunct,Psychotherapy,MAT/NRT/Social Support,N/A,N/A,N/A,Multimodal behavioral treatment critical
+Eating Disorder,Any,Adolescent,Any,First-Line,SSRI,Fluoxetine,20 mg/day,Increase to 60–80 mg,Underweight,Only FDA-approved med for bulimia
+Eating Disorder,Any,Adolescent,Any,Second-Line,Atypical Antipsychotic,Olanzapine,2.5 mg/day,Increase to 5–10 mg,Weight gain,May improve weight restoration
+Eating Disorder,Any,Adolescent,Any,Adjunct,Psychotherapy,CBT-E/Nutrition Support,N/A,N/A,N/A,Gold standard for anorexia/bulimia
+Neurocognitive Disorder,Any,Elderly,Any,First-Line,Acetylcholinesterase Inhibitor,Donepezil,5 mg/day,Increase to 10 mg,Bradycardia,Nausea common
+Neurocognitive Disorder,Any,Elderly,Any,Second-Line,NMDA Antagonist,Memantine,5 mg/day,Increase to 10 mg BID,Dizziness,Used in moderate-severe stages
+Neurocognitive Disorder,Any,Elderly,Any,Adjunct,Antipsychotic,Quetiapine,12.5–25 mg qHS,Increase to 50–100 mg,Black box warning,Use only for severe agitation
+Perinatal Mood Disorder,Female,Adult,Women in Reproductive Years,First-Line,SSRI,Sertraline,25 mg/day,Increase to 100–150 mg,Infant exposure risk,Most studied in pregnancy
+Perinatal Mood Disorder,Female,Adult,Women in Reproductive Years,Second-Line,Non-SSRI Antidepressant,Bupropion XL,150 mg/day,Increase to 300 mg,Data limited in pregnancy,Consider postpartum only
+Perinatal Mood Disorder,Female,Adult,Women in Reproductive Years,Adjunct,Psychotherapy,Cognitive Behavioral Therapy,N/A,N/A,N/A,First-line for mild to moderate symptoms
+Disruptive Mood Dysregulation Disorder,Any,Pediatric,Any,First-Line,Psychotherapy,Parent Training/CBT,N/A,N/A,N/A,Behavioral intervention first
+Disruptive Mood Dysregulation Disorder,Any,Pediatric,Any,Second-Line,Stimulant,Methylphenidate IR,5–10 mg BID,Adjust as needed,Anorexia,For comorbid ADHD
+Disruptive Mood Dysregulation Disorder,Any,Pediatric,Any,Third-Line,Mood Stabilizer,Valproate,10–15 mg/kg/day,Titrate per level,Hepatotoxicity,Monitor LFTs and CBC
+Autism Spectrum Disorder,Any,Pediatric,Any,First-Line,Behavioral Therapy,ABA/CBT/Social Skills Training,N/A,N/A,N/A,Core treatment
+Autism Spectrum Disorder,Any,Pediatric,Any,Second-Line,Antipsychotic,Risperidone,0.25 mg/day,Increase to 1–2 mg,Weight gain,For aggression/irritability
+Autism Spectrum Disorder,Any,Pediatric,Any,Third-Line,Alpha-Agonist,Guanfacine XR,1 mg qHS,Increase to 3 mg,Sedation,Useful for hyperactivity
+Tourette’s Disorder,Any,Adolescent,Any,First-Line,Alpha-Agonist,Clonidine,0.05 mg BID,Increase to 0.1–0.2 mg,Sedation,Good for tics and ADHD
+Tourette’s Disorder,Any,Adolescent,Any,Second-Line,Antipsychotic,Aripiprazole,2 mg/day,Increase to 10 mg,Akathisia,Low EPS profile
+Tourette’s Disorder,Any,Adolescent,Any,Adjunct,CBIT Therapy,N/A,N/A,N/A,Comprehensive Behavioral Intervention for Tics
+
